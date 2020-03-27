@@ -6,9 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APBD_Tutorial2", "APBD_Tutorial2\APBD_Tutorial2.csproj", "{299D00F7-54BD-4B98-B064-E7BEF2CF5ABA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "files", "files", "{4BEA84B1-A067-4072-AE1F-EC4E8A637F2E}"
-	ProjectSection(SolutionItems) = preProject
-		data.csv = data.csv
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
