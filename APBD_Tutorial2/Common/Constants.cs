@@ -2,7 +2,7 @@
 {
     public class Constants
     {
-        public const string dataFile = @"C:\Users\aniam\Desktop\4 semester\APBD\APBD_Tutorial2\APBD_Tutorial2\data.csv";
+        public const string dataFile = @"data.csv";
         public const string logFile = @"log.txt";
 
         public const string outputXml = @"xmldata.xml";
